@@ -1,0 +1,2 @@
+# dictionary
+patika.dev dictionary
