@@ -1,2 +1,2 @@
 # dictionary
-patika.dev dictionary
+https://www.patika.dev/tr
